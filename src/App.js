@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import Numbers from "./Companets/new-numbers";
+import Numbers from "./Companets/New-number";
 import './Companets/New-numbers.css'
 
 class App extends Component {

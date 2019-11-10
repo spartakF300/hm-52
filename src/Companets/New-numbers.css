@@ -1,0 +1,26 @@
+.random_number {
+    border: 2px solid #282c34;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+    line-height: 60px;
+    font-size: 20px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    padding: 10px 30px;
+    background: darkslategray;
+    color: aliceblue;
+
+}
+
+
+
+
